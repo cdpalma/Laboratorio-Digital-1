@@ -6,7 +6,7 @@ Parte 1
 
 A partir de los datasheet, se pudieron comparar las características de cada tecnología. En cuanto a pines de entrada, salida y polarización, son prácticamente iguales, ambos cuentan con seis negadores dispuestos a lo largo del encapsulado, solo cambia el nombre de cada uno de ellos. Otra cosa a resaltar, es que la tensión de polarización para el TTL tiene un rango operativo de 2VCC6, mientras que la del CMOS tiene un rango de 3VDD18.
 
-![Mi logo](assets/logo.png)
+![](Screenshot_1.png)
 
 
 Tabla 1. Voltajes de salida y entrada, tiempo de subida (tr) y bajada (tf),  tiempo de paso de nivel alto a bajo (tphl) y tiempo de paso de nivel bajo a alto (tplh) de un CMOS y TTL.
