@@ -27,6 +27,7 @@ En el caso del CMOS, el Voh decae de 5 a 4.9 V y el Vol aumenta de 0.2 a 0.3 V, 
 Para el caso del TTL, el Voh decae de 6 a 5.9 V y el Vol aumenta de 0.1 a 0.2 V, como se muestra en la Figura 3 y 4. Para este dispositivo, el Voh mínimo es de 5.9 V, por lo que el dispositivo también estaría al borde de no cumplir con sus valores nominales. De forma similar, el Vol máximo indicado por los fabricantes es 0.1 V, por lo que también estaría muy cerca de no cumplir con sus valores nominales.
 
 ![](figura_3.png)
+
         Figura 3. Voh del negador CMOS cuando tiene conectadas tres entradas negadoras a la salida.
 
 ![](figura_4.png)
